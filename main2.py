@@ -1,4 +1,4 @@
-version="1.1.2"
+version="1.1.3"
 #IMPORT
 import getpass,time,os,sys
 import signal
@@ -61,7 +61,7 @@ os.system("clear")
 header()
 print(cyan+"\n\t\t[•] Checking For Updates")
 time.sleep(0.7)
-
+os.system("clear")
 
 try:
 	import requests
