@@ -3,7 +3,7 @@ All In On
 <p align="left"> 
 <a href="#"><img title="Made in Bangladesh" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
-<p align="center"><a href="https://linktr.ee/botolbaba"><img title="All in on " src="https://user-images.githubusercontent.com/64999484/108371895-6e511d00-7228-11eb-91c9-b3c7100dc458.png"></a>
+
 <p align="center"><a href="https://github.com/CyberHanterBangladesh"><img title="Author" src="https://img.shields.io/badge/Author-MD ALAMIN--CHOWDOWRY-red.svg?style=for-the-badge&logo=github"></a></p>
 <p align="center"><a href="https://github.com/botolmehedi/followers"><img title="Followers" src="https://img.shields.io/github/followers/botolmehedi?color=blue&style=flat-square"></a> ></a> <a href="m.me/Mdalamin54321"><img title="Messenger" src="https://img.shields.io/badge/Chat-Messenger-blue?style=flat-square&logo=messenger"></a></p>
 
@@ -37,19 +37,11 @@ $ python2 main.py
 After Installation Complete Just Type
 
 $ ls && cd chb
-$ python2 main.py
-```
-
-
-
-## ***Follow Me***
-
-
-* Website : [Visit Now](http://www.mastertrick.design)
+$ python main.py 
+,,,
 * facebook : [Follow Us](https://www.facebook.com/Mdalamin54321)
 
 * Telegram : [Join Now](https://t.me/Mdala.in12345)
-* Instagram : [Follow Me](https://www.instagram.com/MehtanOfficial)
 
 * GitHub : [Follow Me](https://www.github.com/CyberHanterBangladesh)
 
