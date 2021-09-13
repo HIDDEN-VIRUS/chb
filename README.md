@@ -9,8 +9,8 @@
 
 ## ***About This Tool***:
 
-This Tool For 1.FB Clone 2.Sms bomber for Bangladesh 3.Termux baner 4.Email bomber No loging 5.Python code encrept 
-
+This Tool For 1.FB Clone 2.Sms bomber for Bangladesh 3.Termux banner 4.Email bomber No loging 5.Python code encrept 
+6.video download 
 ## Installation :
 ```
 $ pkg update && pkg upgrade
