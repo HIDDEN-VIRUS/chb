@@ -46,10 +46,11 @@ $ python main.py
 * Telegram : [Join Now](https://t.me/Mdala.in12345)
 
 * GitHub : [Follow Me](https://www.github.com/CyberHanterBangladesh)
-
-## ***THANKS TO***
-* Root of Cyber  ❤
 ,,,
-### Warning
+## ***THANKS TO***
+* Root of Cyber  ❤💗
+
+,,,
+## Warning
 
 ***Don't try to edit or modify this tool. This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
