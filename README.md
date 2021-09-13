@@ -27,7 +27,7 @@ $ git clone https://github.com/CyberHanterBangladesh/chb
 ## Tools Run :
 ```
 $ ls && cd chb
-$ python2 main.py
+$ python main.py
 ```
 
 ## One Click Run:
@@ -35,7 +35,7 @@ $ python2 main.py
 After Installation Complete Just Type
 
 $ ls && cd chb
-$ python2 main.py
+$ python main.py
 ```
 
 
