@@ -47,10 +47,10 @@ $ python main.py
 
 * GitHub : [Follow Me](https://www.github.com/CyberHanterBangladesh)
 ,,,
-## ***THANKS TO***
+<a***THANKS TO***
 * Root of Cyber  ❤💗
 
 
-## Warning
+<a## Warning
 
-##***Don't try to edit or modify this tool. This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
+<a##***Don't try to edit or modify this tool. This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
