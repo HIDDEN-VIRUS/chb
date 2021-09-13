@@ -1,11 +1,7 @@
-## CHB TOOL
-## All In On 
-
-
 <p align="left"> 
 <a href="#"><img title="Made in Bangladesh" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
-
+<p align="center"><a href="https://linktr.ee/botolbaba"><img title="All in on " src="https://user-images.githubusercontent.com/64999484/108371895-6e511d00-7228-11eb-91c9-b3c7100dc458.png"></a>
 <p align="center"><a href="https://github.com/CyberHanterBangladesh"><img title="Author" src="https://img.shields.io/badge/Author-MD ALAMIN--CHOWDOWRY-red.svg?style=for-the-badge&logo=github"></a></p>
 <p align="center"><a href="https://github.com/botolmehedi/followers"><img title="Followers" src="https://img.shields.io/github/followers/botolmehedi?color=blue&style=flat-square"></a> ></a> <a href="m.me/Mdalamin54321"><img title="Messenger" src="https://img.shields.io/badge/Chat-Messenger-blue?style=flat-square&logo=messenger"></a></p>
 
@@ -39,18 +35,24 @@ $ python2 main.py
 After Installation Complete Just Type
 
 $ ls && cd chb
-$ python main.py 
-,,,
+$ python2 main.py
+```
+
+
+
+## ***Follow Me***
+
+
+
 * facebook : [Follow Us](https://www.facebook.com/Mdalamin54321)
 
 * Telegram : [Join Now](https://t.me/Mdala.in12345)
 
 * GitHub : [Follow Me](https://www.github.com/CyberHanterBangladesh)
-,,,
-<a***THANKS TO***
-* Root of Cyber  ❤💗
 
+## ***THANKS TO***
+* Root of Cyber  ❤
 
-<a## Warning
+### Warning
 
-<a##***Don't try to edit or modify this tool. This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
+***Don't try to edit or modify this tool. This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
