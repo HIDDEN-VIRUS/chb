@@ -43,12 +43,15 @@ $ python main.py
 ## ***Follow Me***
 
 
+### Contact me:
 
-* facebook : [Follow Us](https://www.facebook.com/Mdalamin54321)
+<a href="https://github.com/CyberHanterBangladesh" target="_blank"><img src="https://img.shields.io/badge/Github-Alamin Chowdhury -green?style=for-the-badge&logo=github"></a>
 
-* Telegram : [Join Now](https://t.me/Mdala.in12345)
+<a href="https://facebook.com/Mdalamin54321" target="_blank"><img src="https://img.shields.io/badge/FaceBook-Alamin Chowdhury -purple?style=for-the-badge&logo=facebook"></a>
 
-* GitHub : [Follow Me](https://www.github.com/CyberHanterBangladesh)
+<a href="https://m.me/Mdalamin54321" target="_blank"><img src="https://img.shields.io/badge/Messenger-Alamin Chowdhury -red?style=for-the-badge&logo=messenger"></a>
+
+<a href="amzad3859@gmail.com" target="_blank"><img src="https://img.shields.io/badge/amzad3859@gmail.com?style=for-the-badge&logo=gmail"></a>
 
 ## ***THANKS TO***
 * Root of Cyber  ❤
