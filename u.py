@@ -1,6 +1,6 @@
 import getpass,time,os,sys
 import os 
-a="1"
+ab="1"
 import signal
 import time,os,sys
 import sys, random
@@ -58,7 +58,7 @@ r=requests.get("https://pastebin.com/zHRgbXCi").text
 
 r2=str(r)
 
-if a==r2:
+if ab==r2:
  pass
  os.system("python main.py")
  
