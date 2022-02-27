@@ -21,7 +21,7 @@ $ pkg install pip
 $ pkg install pip2
 $ pip2 install requests
 $ pip2 install mechanize
-$ git clone https://github.com/CyberHanterBangladesh/chb
+$ git clone https://github.com/HIDDEN-VIRUS/chb
 ```
 
 ## Tools Run :
